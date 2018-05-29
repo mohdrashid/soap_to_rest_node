@@ -19,7 +19,11 @@ app.use(bodyParser.json())
 
 /* Sample Body
 {
-
+	"function":"ListOfContinentsByName",
+	"args":
+		{
+		
+		}
 }
 */
 
