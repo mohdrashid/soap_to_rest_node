@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mohdrashid/soap_to_rest_node#readme",
   "dependencies": {
+    "base64-js": "^1.3.0",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "strong-soap": "^1.9.0"
